@@ -1,0 +1,108 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 80% georgia, sans-serif;
+	line-height: 1.88889;
+	color: hsl(281, 100%, 50%); 
+	background-image: url(https://i.pinimg.com/originals/f1/bf/3f/f1bf3fa5597e2a6afa060a3210aa0030.jpg); 
+	margin: 1em; 
+	padding: 0;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+}
+p {
+    
+	clear: both; 
+	padding: 1% 2%;
+	border-radius: 10px;
+	margin-top: 1em;
+	
+	background-color: #ff98cb;
+	background-image: url()
+}
+
+
+h1 { 
+	margin: 1px;
+	padding: 1% ;
+	clear: both; 
+	border-radius: 10px;
+	background-color: #ff98cb;
+	background-image: url()
+    
+}
+h2 {
+	margin: 1px;
+	clear: both; 
+	padding: 1% 2%;
+	border-radius: 10px;
+	margin-top: 1em;
+
+	background-color: #ff98cb;
+
+}
+h3 {
+    clear: both; 
+	padding: 1% 2%;
+	border-radius: 10px;
+	margin-top: 1px;
+	
+	background-color: #ff98cb;
+	background-image: url()
+}
+
+h4 {
+	clear: both; 
+	padding: 1% 2%;
+	border-radius: 10px;
+	margin-top: 1px;
+	
+	background-color: #ff98cb;
+
+}
+ul {
+    
+    clear: both; 
+	padding: 1% 2%;
+	border-radius: 10px;
+	margin-top: 1em;
+	
+	background-color: #ff98cb;
+	background-image: url()
+    
+}
+.page-wrapper { 
+	display: flex;
+	margin: 0; 
+	position: relative;
+	
+}
+.Início{
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+.Meio{
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+.fim{
+    margin-top: 1em;
+    margin-right: 1em;
+}
+#Sobre_Mim{
+    display: flex  ;
+
+}
+
+hr{
+    display: none;
+}
+#foto{
+	margin: 1em;
+}
